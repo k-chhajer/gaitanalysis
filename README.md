@@ -26,7 +26,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5298771/
 To access the dataset, we would like to request the reader to kindly reach out to the original authors directly.
 
 ## Testing Dataset
-Team collected our own data using the Sensor Logger on the iPhone which was used for model selection.
+Team collected our own data using the Sensor Logger on the iPhone which was used for model selection (validation).
 
 Testing was done using the MobiFall and MobiAct Datasets, containing different types of FALLs and ADL samples recorded using a Samsung S3 phone. For more information, kindly access: https://bmi.hmu.gr/the-mobifall-and-mobiact-datasets-2/
 
@@ -68,5 +68,9 @@ Phone Data stood at 77% whereas Specificity was 84.4% across the entire collecte
 The overall metrics from the MobiFall data set are as follows: accuracy 92.7%, specificity 91.8%, sensitivity of 97.3%.
 
 ## Acknowledgement
-We would like to thank the authors of the MobiFall and SisFall Dataset for allowing us access to do this project.
+We would like to thank the authors of the MobiFall and SisFall Dataset for allowing us access to the required data to do this project.
 
+## Authors
+Krish Chhajer, Nicholas Eckhert, Richa Pandya, Anya Pedersen
+
+Access to the team repository: https://github.com/rpandya5/gaitanalysis
